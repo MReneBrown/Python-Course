@@ -34,6 +34,6 @@ starter_sentence = 'The quick brown fox jumped'
 
 new_sentence = 'Thy' + starter_sentence[3:] 
 # leave the range value after colon blank, it will go to end of string
-# no value needed if you want the rest of the string assigned
+# no value after the : needed if you want the rest of the string assigned
 print(new_sentence) 
 
