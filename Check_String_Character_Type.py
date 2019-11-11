@@ -18,3 +18,5 @@ api_data = '5'
 greeting = 'Hi there' # space " " causes a false negative because it isn't alpha/numeric
 
 print(greeting.isalpha())
+
+False
