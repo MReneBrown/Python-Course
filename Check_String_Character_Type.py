@@ -15,7 +15,7 @@
 
 
 api_data = '5'
-greeting = 'Hi there' # space " " causes a false negative because it isn't alpha/numeric
+greeting = 'Hi there' # space " " causes a false negative because it isn't alphanumeric
 
 print(greeting.isalpha())
 
