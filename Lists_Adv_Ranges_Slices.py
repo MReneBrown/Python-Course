@@ -27,6 +27,7 @@ tags = [
 ['tutorials', 'python', 'programming', 'development', 'computer science', 'code']
 
 # sorted_tags = tags.sort(reverse=True)    # Output None
-# cannot change the strings IMMUTABLE! Can sort but cannot reassign/store the values permanently
+# cannot change the strings IMMUTABLE! Can sort but cannot 
+# reassign/store the values permanently in a variable
 
 # print(sorted_tags)
