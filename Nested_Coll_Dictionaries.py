@@ -11,5 +11,8 @@ print(teams["astros"])
 print(teams["angels"])
 print(teams["yankees"])
 
-
+['Altuve', 'Correa', 'Bregman']
+['Altuve', 'Correa', 'Bregman']
+['Trout', 'Pujols']
+['Judge', 'Stanton']
 
