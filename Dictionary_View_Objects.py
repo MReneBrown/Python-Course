@@ -55,7 +55,7 @@ dict_items([
 
 # 4
 
-print(list(team_groupings)[0][1][0])
+print(type(list(team_groupings)[0][1][0]))
 
 Altuve
 
