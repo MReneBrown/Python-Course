@@ -18,9 +18,9 @@ tags_two = {
 
 # {'ruby', 'coding', 'tutorials', 'development', 'python'}  
 
-#tags in tags_one but not in tags_two
-
 # ----------------------------------
+
+# tags in tags_one but not in tags_two
 
 # exclusive_to_tag_one = tags_one - tags_two
 
@@ -33,6 +33,7 @@ tags_two = {
 # tags in tags_two but not in tags_one
 
 # exclusive_to_tag_two = tags_two - tags_one
+
 # print(exclusive_to_tag_two)
 
 # {'development', 'ruby'}
