@@ -35,19 +35,33 @@
 
 # Welcome!
 
-user_list = ['Kristine', 'Tiffany']
-user_list2 = ['Jordan', 'Braden']
+# user_list = ['Kristine', 'Tiffany']
+# user_list2 = ['Jordan', 'Braden']
 
-if user_list == user_list2:
-    print('They match!')
+# if user_list == user_list2:
+#     print('They match!')
 
 # prints nothing because the lists do not match
 
-user_list = ['Kristine', 'Tiffany']
-user_list2 = ['Kristine', 'Tiffany']
 
-if user_list == user_list2:
-    print('They match!')
+# age = 55
 
-They match!
+# if age != 90:
+#   print('Welcome!')
+# else:
+#   print('You shall not pass!')
+
+# welcome!
+
+
+
+
+
+# user_list = ['Kristine', 'Tiffany']
+# user_list2 = ['Kristine', 'Tiffany']
+
+# if user_list == user_list2:
+#     print('They match!')
+
+# They match!
 
