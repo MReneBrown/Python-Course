@@ -30,5 +30,10 @@ print(remove_first_and_last(html))
 print(remove_first_and_last(html_2))
 print(remove_first_and_last(html_3))
 
+['Some content']
+['Some content', 'more']
+This list must have at least three elements included within.
 
-
+# The condition within this code was an additional (you could do this)
+# suggestion from Jordan, our instructor.  I took it upon myself to
+# take this challenge.
