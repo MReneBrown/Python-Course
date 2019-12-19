@@ -3,19 +3,18 @@
 #         return f'{first} {last}'
 
 
-#     print(f'Hi {full_name()}!')
+    # print(f'Hi {full_name()}!')
 
 # greeting('Kristine', 'Hudgens')
 
 
-
-
-def birth_month_year(mo_yr):
-    def report():
+def birth_month_year(month, year):
+    def dob():
         return f'{month} {year}'
 
-    print(f'Your birth month and year are {mo_yr}')
 
-report('September' , '1969')
+    print(f'Your birth month and year are {dob()}.')
+
+birth_month_year('September' , '1969')
 
 
