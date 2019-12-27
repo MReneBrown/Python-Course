@@ -12,13 +12,30 @@
 
 
 
+# import sys
+# sys.path.insert(0, './libs')
+# from helper import greeting
+
+# def render():
+#     print(greeting('Tiffany','Hudgens'))
+
+
+# render()
+
+
+
+# Alias assigned on import of module
+
 import sys
 sys.path.insert(0, './libs')
-from helper import greeting
+import helper as h
 
 def render():
-    print(greeting('Tiffany','Hudgens'))
+    print(h.greeting('Tiffany','Hudgens'))
 
 
 render()
 
+import math as m
+
+m.sqrt(4)
