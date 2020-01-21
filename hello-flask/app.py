@@ -26,7 +26,7 @@ class GuideSchema(ma.Schema):
 guide_schema = GuideSchema()
 guides_schema = GuideSchema(many=True)
 
-# Endpoint to crate a new guide
+# Endpoint to create a new guide
 
 @app.route('/guide', methods=["POST"])
 def add_guide():
